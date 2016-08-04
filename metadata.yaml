@@ -1,0 +1,34 @@
+_repo: The-Broad-Highway_5257
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Farnol, Jeffery
+    aliases:
+    - Farnol, Jack
+    - Farnol, John Jeffery
+    - Farnol, Jeffrey
+    birthdate: 1878
+    deathdate: 1952
+    gutenberg_agent_id: '789'
+    url: http://www.gutenberg.org/2009/agents/789
+    wikipedia: http://en.wikipedia.org/wiki/Jeffery_Farnol
+description: 'A swashbuckling romance, The Broad Highway is narrated by Peter Vibart,
+  the story''s hero, who tells his tale most disarmingly. Believing himself to be
+  disinherited, he sets out on the broad highway" in search of a livelihood and adventure.
+  He finds both: a livelihood in the form of blacksmithing and adventure (and love)
+  in a startling form.'
+gutenberg_bookshelf: Bestsellers, American, 1895-1923
+gutenberg_issued: '2004-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5257'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Kent (England) -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: The Broad Highway
+url: http://www.gutenberg.org/ebooks/5257
