@@ -1,5 +1,8 @@
 _repo: The-Broad-Highway_5257
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Farnol, Jeffery
@@ -17,6 +20,8 @@ description: 'A swashbuckling romance, The Broad Highway is narrated by Peter Vi
   disinherited, he sets out on the broad highway" in search of a livelihood and adventure.
   He finds both: a livelihood in the form of blacksmithing and adventure (and love)
   in a startling form.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/5257#The-Broad-Highway
 gutenberg_bookshelf: Bestsellers, American, 1895-1923
 gutenberg_issued: '2004-03-01'
 gutenberg_type: Text
